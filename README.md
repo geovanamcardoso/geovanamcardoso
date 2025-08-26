@@ -2,8 +2,8 @@
 
 **`Software Engineering Student`**
 
-My name is Geovana Cardoso, I’m 19 years old and I’m from São Paulo, Brazil.
-I am currently pursuing a degree in Software Engineering at FIAP and also studying remotely for a Technical Diploma in Systems Development at Centro Paula Souza (CPS). I’m passionate about learning and developing technological solutions that are both practical and useful.
+My name is Geovana Cardoso, I’m 19 years old and I’m from São Paulo, Brazil. I am currently pursuing a degree in Software Engineering at FIAP and also studying remotely for a Technical Diploma in Systems Development at Centro Paula Souza (CPS). I’m passionate about learning and developing technological solutions that are both practical and useful.
+
 ---
 ### 🤖 Languages and Technologies
 
